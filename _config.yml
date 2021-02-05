@@ -1,0 +1,5 @@
+title: uudom.com
+description: echo '1024 * 4201 + 5' | bc | tr -cd '[:digit:]'.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-modernist
